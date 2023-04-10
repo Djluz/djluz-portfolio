@@ -133,10 +133,6 @@ export default function Home() {
                 </li>
                 <li>
                   <BiCheck className='service__list-icon' />
-                  <p>Shopify Development</p>
-                </li>
-                <li>
-                  <BiCheck className='service__list-icon' />
                   <p>Wordpress Development </p>
                 </li>
               </ul>

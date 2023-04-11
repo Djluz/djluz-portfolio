@@ -48,11 +48,11 @@ const Contact = () => {
           <article className="flex-1 gap-3 mb-5 bg-gray-700 md:flex md:gap-28 lg:gap-4 xl:gap-28 2xl:gap-52 contact__option hover:text-black hover:bg-slate-100 dark:bg-gray-600">
             <div className='justify-items-center' id='transition'>
               <h4>WhatsApp</h4>
-              <h5>+639 19 222 8412</h5>
+              <h5>+639 35 541 7398</h5>
             </div>
             <div className='flex gap-2' id='button'>
               <BsWhatsapp className='mt-1 text-cyan-400' />
-              <a href="https://api.whatsapp.com/send?phone+639355417398" target="_blank" className= 'hover:text-black'>Send message</a>
+              <a href="https://web.whatsapp.com/send?phone+639355417398" target="_blank" className= 'hover:text-black'>Send message</a>
             </div>
           </article>
         </div>

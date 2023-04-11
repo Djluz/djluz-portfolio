@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import {BsFillMoonStarsFill, BsFacebook, BsGithub} from 'react-icons/bs'
 import {AiFillLinkedin} from 'react-icons/ai'
-import Image from 'next/legacy/image'
+import Image from 'next/image'
 import me from '../public/me.png'
 import tri from '../public/bg-texture.png'
 import web1 from '../public/bgst.png'

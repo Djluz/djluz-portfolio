@@ -52,7 +52,7 @@ const Contact = () => {
             </div>
             <div className='flex gap-2' id='button'>
               <BsWhatsapp className='mt-1 text-cyan-400' />
-              <a href="https://api.whatsapp.com/send?phone+639192228412" target="_blank" className= 'hover:text-black'>Send message</a>
+              <a href="https://api.whatsapp.com/send?phone+639355417398" target="_blank" className= 'hover:text-black'>Send message</a>
             </div>
           </article>
         </div>

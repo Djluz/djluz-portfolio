@@ -38,7 +38,7 @@ export default function Home() {
                 <BsFillMoonStarsFill onClick={() => setDarkMode(!darkMode)} className='text-2xl cursor-pointer hover:fill-teal-400' />
               </li>
               <li>
-                <a className='px-5 py-2 ml-5 text-white align-middle rounded-lg shadow-lg bg-gradient-to-r from-cyan-500 to-teal-500 hover:shadow-gray-500 hover:text-black' download href='https://drive.google.com/file/d/1mdF9vylmotl7_x3MxhaEyxzahOEgaaoa/view?usp=share_link' target='_blank' >
+                <a className='px-5 py-2 ml-5 text-white align-middle rounded-lg shadow-lg bg-gradient-to-r from-cyan-500 to-teal-500 hover:shadow-gray-500 hover:text-black' download href='https://drive.google.com/file/d/1cxDnJYyuDHv9fmzwrQqcAMVjY8ADC4h7/view?usp=share_link' target='_blank' >
                 Download CV
                 </a>
               </li>

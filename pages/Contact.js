@@ -23,7 +23,7 @@ const Contact = () => {
       </h3>
       <div className="flex flex-col gap-10 lg:flex-row lg:flex-wrap">
         <div className="flex-1 gap-3 text-white basis-1/3">
-          <article className="flex-1 gap-3 mb-5 bg-gray-700 md:flex md:gap-28 lg:gap-4 xl:gap-28 2xl:gap-52 contact__option hover:text-black hover:bg-slate-100 dark:bg-gray-600">          
+          <article className="flex-1 gap-3 mb-5 bg-gray-700 md:flex md:gap-28 lg:gap-4 xl:gap-28 2xl:gap-52 contact__option hover:bg-slate-100 dark:bg-gray-600">          
             <div className='justify-items-center' id='transition'>
               <h4>Email</h4>
               <h5>daryljaneluz@gmail.com</h5>
@@ -34,7 +34,7 @@ const Contact = () => {
             </div>
           </article>
 
-          <article className="flex-1 gap-3 mb-5 bg-gray-700 md:flex md:gap-28 lg:gap-4 xl:gap-28 2xl:gap-52 contact__option hover:text-black hover:bg-slate-100 dark:bg-gray-600">
+          <article className="flex-1 gap-3 mb-5 bg-gray-700 md:flex md:gap-28 lg:gap-4 xl:gap-28 2xl:gap-52 contact__option hover:bg-slate-100 dark:bg-gray-600">
             <div className='justify-items-center' id='transition'>
               <h4>Messenger</h4>
               <h5>Daryl Jane Galvez-Luz</h5>
@@ -45,7 +45,7 @@ const Contact = () => {
             </div>
           </article>
 
-          <article className="flex-1 gap-3 mb-5 bg-gray-700 md:flex md:gap-28 lg:gap-4 xl:gap-28 2xl:gap-52 contact__option hover:text-black hover:bg-slate-100 dark:bg-gray-600">
+          <article className="flex-1 gap-3 mb-5 bg-gray-700 md:flex md:gap-28 lg:gap-4 xl:gap-28 2xl:gap-52 contact__option hover:bg-slate-100 dark:bg-gray-600">
             <div className='justify-items-center' id='transition'>
               <h4>WhatsApp</h4>
               <h5>+639 35 541 7398</h5>

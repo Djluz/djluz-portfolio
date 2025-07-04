@@ -18,7 +18,7 @@ import {BiCheck} from 'react-icons/bi'
 
 
 export default function Home() {
-  const [darkMode, setDarkMode] = useState(false);
+  const [darkMode, setDarkMode] = useState(true);
   return (
     <div className={darkMode ? 'dark' : ''}>
       <Head>

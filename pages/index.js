@@ -2,7 +2,7 @@ import Head from 'next/head'
 import {BsFillMoonStarsFill, BsFacebook, BsGithub} from 'react-icons/bs'
 import {AiFillLinkedin} from 'react-icons/ai'
 import Image from 'next/legacy/image'
-import me from '../public/me.png'
+import me from '../public/me2.png'
 import tri from '../public/bg-texture.png'
 import web1 from '../public/web1.png'
 import web2 from '../public/web2.png'
@@ -45,7 +45,7 @@ export default function Home() {
             </ul>
           </nav>
           <div className='mb-10 me'>
-            <Image src={me2} />
+            <Image src={me} />
           </div>
           <div className='text-center p-10 mt-[450px]'>
             <h2 className='py-2 text-5xl font-medium text-teal-600 md:text-6xl dark:text-teal-400'>

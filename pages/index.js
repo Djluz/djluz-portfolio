@@ -177,7 +177,7 @@ export default function Home() {
                 <div className='absolute flex flex-col items-center justify-center w-full h-full transition-all duration-300 rounded-lg opacity-0 bg-black/70 -bottom-10 group-hover:bottom-0 group-hover:opacity-100'>
                   <p className='px-5 py-5 text-sm text-black bg-white bg-opacity-90 md:text-xl'>Boobie Goodies & Sweet Treats is a business website I created during Kodego Bootcamp for Front-end Individual Project. This project is built without any functionalities.</p>
                   <div className='flex justify-center gap-2 mt-5 text-sm md:gap-10 md:text-lg lg:gap-3 xl:gap-10'>
-                    <a href='https://bgst-website.djluz.website/' target='_blank'>
+                    <a href='https://bgst.daryljaneluz.site/' target='_blank'>
                       <button className='px-5 py-2 text-white rounded-lg shadow-lg bg-gradient-to-r from-cyan-500 to-teal-500 hover:shadow-gray-500 hover:text-black' >View Website</button>
                     </a>
                     <a href='https://github.com/Djluz/Boobie-Goodies---Sweet-Treats' target='_blank'>
@@ -209,7 +209,7 @@ export default function Home() {
                 <div className='absolute flex flex-col items-center justify-center w-full h-full transition-all duration-300 rounded-lg opacity-0 bg-black/70 -bottom-10 group-hover:bottom-0 group-hover:opacity-100'>
                   <p className='px-5 py-5 text-sm text-black bg-white bg-opacity-90 md:text-xl'>CYD is a business website for an Online Legal Service as requested by a client it is created using ReactJS and Tailwindcss.</p>
                   <div className='flex justify-center gap-2 mt-5 text-sm md:gap-10 md:text-lg lg:gap-3 xl:gap-10'>
-                    <a href='https://cyd-services.djluz.website/' target='_blank'>
+                    <a href='https://cyd.daryljaneluz.site/' target='_blank'>
                       <button className='px-5 py-2 text-white rounded-lg shadow-lg bg-gradient-to-r from-cyan-500 to-teal-500 hover:shadow-gray-500 hover:text-black' >View Website</button>
                     </a>
                     <a href='https://github.com/Djluz/cyd-services' target='_blank'>
@@ -225,7 +225,7 @@ export default function Home() {
                 <div className='absolute flex flex-col items-center justify-center w-full h-full transition-all duration-300 rounded-lg opacity-0 bg-black/70 -bottom-10 group-hover:bottom-0 group-hover:opacity-100'>
                   <p className='px-5 py-5 text-sm text-black bg-white bg-opacity-90 md:text-xl'>We-Learn is an E-learning website I created with my team during Kodego Bootcamp for Front-end Project 2. I did the website designing and most of the front-end coding in this project.</p>
                   <div className='flex justify-center gap-2 mt-5 text-sm md:gap-10 md:text-lg lg:gap-3 xl:gap-10'>
-                    <a href='https://welearn-website.djluz.website/' target='_blank'>
+                    <a href='https://welearn.daryljaneluz.site/' target='_blank'>
                       <button className='px-5 py-2 text-white rounded-lg shadow-lg bg-gradient-to-r from-cyan-500 to-teal-500 hover:shadow-gray-500 hover:text-black' >View Website</button>
                     </a>
                     <a href='https://github.com/Djluz/we_learn' target='_blank'>
@@ -241,7 +241,7 @@ export default function Home() {
                 <div className='absolute flex flex-col items-center justify-center w-full h-full transition-all duration-300 rounded-lg opacity-0 bg-black/70 -bottom-10 group-hover:bottom-0 group-hover:opacity-100'>
                   <p className='px-5 py-5 text-sm text-black bg-white bg-opacity-90 md:text-xl'>Math-Game is a mathematical game application/website for kids to play while learning or mastering basic arithmetics. This project is created using ReactJS.</p>
                   <div className='flex justify-center gap-2 mt-5 text-sm md:gap-10 md:text-lg lg:gap-3 xl:gap-10'>
-                    <a href='https://math-game-z.djluz.website/' target='_blank'>
+                    <a href='https://mathgame.daryljaneluz.site/' target='_blank'>
                       <button className='px-5 py-2 text-white rounded-lg shadow-lg bg-gradient-to-r from-cyan-500 to-teal-500 hover:shadow-gray-500 hover:text-black' >View Website</button>
                     </a>
                     <a href='https://github.com/Djluz/math-game' target='_blank'>
@@ -257,7 +257,7 @@ export default function Home() {
                 <div className='absolute flex flex-col items-center justify-center w-full h-full transition-all duration-300 rounded-lg opacity-0 bg-black/70 -bottom-10 group-hover:bottom-0 group-hover:opacity-100'>
                   <p className='px-5 py-5 text-sm text-black bg-white bg-opacity-90 md:text-xl'>DJ Luz is a Portfolio website I created for personal use to showcase my projects in web developing. I created this project using NextJS and Tailwindcss. </p>
                   <div className='flex justify-center gap-2 mt-5 text-sm md:gap-10 md:text-lg lg:gap-3 xl:gap-10'>
-                    <a href='https://djluz.website/' target='_blank'>
+                    <a href='https://daryljaneluz.site/' target='_blank'>
                       <button className='px-5 py-2 text-white rounded-lg shadow-lg bg-gradient-to-r from-cyan-500 to-teal-500 hover:shadow-gray-500 hover:text-black' >View Website</button>
                     </a>
                     <a href='https://github.com/Djluz/myportfolio' target='_blank'>

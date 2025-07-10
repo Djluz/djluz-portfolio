@@ -44,7 +44,7 @@ export default function Home() {
               </li>
             </ul>
           </nav>
-          <div className='mb-10 me'>
+          <div className='mb-0 me'>
             <Image src={me} />
           </div>
           <div className='text-center p-10 mt-[450px]'>

@@ -26,11 +26,11 @@ const Contact = () => {
           <article className="flex-1 gap-3 mb-5 bg-gray-700 md:flex md:gap-28 lg:gap-4 xl:gap-28 2xl:gap-52 contact__option hover:bg-slate-100 dark:bg-gray-600">          
             <div className='justify-items-center' id='transition'>
               <h4>Email</h4>
-              <h5>daryljaneluz@gmail.com</h5>
+              <h5>daryljane@luzdomains.com</h5>
             </div>
             <div className='flex gap-2' id='button'>
               <MdOutlineEmail className='mt-1 text-cyan-400' />
-              <a href="mailto:daryljaneluz@gmail.com" className= 'hover:text-black' >Send email</a>
+              <a href="mailto:daryljane@luzdomains.com" className= 'hover:text-black' >Send email</a>
             </div>
           </article>
 
